@@ -7,7 +7,7 @@ Identify one use case from the p2p world and provide a happy path to easily setu
 # short term
 - initial ssb pub scripts w/ accompanying documentation
   - documentation should include explanations for all commands so a user can become familiar with what's happening on their machine
-- scripts and docs will exist as a git repo, github or somewhere else.
+- scripts and docs will exist as a git repo, on GitHub or somewhere else
 - pub setup can be a one line command but could also be done line by line "by hand"
 - accompanying tutorial style walk-through (written, blog style)
 - online gathering/meetups for walk-throughs QA
