@@ -19,7 +19,7 @@ Identify one use case from the p2p world and provide a happy path to easily setu
 - online gathering/meetups for walk-throughs QA
 
 # long term
-- Identify additional use cases and replicate the process.
+- identify additional use cases and replicate the process
 - meat Space workshops
 - Node School style lessons
 - collaborate with other groups with like minded visions/values
