@@ -4,7 +4,6 @@ The initial vision for the Community Infrastructure Learning Group (CILG) was to
 # strategy
 Identify one use case from the p2p world and provide a happy path to easily setup the infrastructure needed to support that use case. This will include scripts, documentation in many forms i.e. traditional docs, blog style guides, video walk-throughs, online meetups etc etc. (Initially this will focus on SSB Pub setup). Once the CILG has worked through this process with this narrow use case, start identifying other use cases and replicate the process.
 
-
 # short term
 - initial ssb pub scripts w/ accompanying documentation
   - documentation should include explanations for all commands so a user can become familiar with what's happening on their machine
