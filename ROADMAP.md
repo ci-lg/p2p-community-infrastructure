@@ -20,7 +20,7 @@ Identify one use case from the p2p world and provide a happy path to easily setu
 
 # long term
 - Identify additional use cases and replicate the process.
-- Meat Space workshops
+- meat Space workshops
 - Node School style lessons
 - collaborate with other groups with like minded visions/values
 - could we offer support to communities looking to get going?
